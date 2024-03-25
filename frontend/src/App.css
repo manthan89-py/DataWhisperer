@@ -1,0 +1,55 @@
+.chatbot-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px; /* Padding for content within the container */
+  border-radius: 10px;
+  background-color: #f5f5f5; /* Light gray background */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  margin: 50px auto; /* Margin for centering the container */
+  width: 400px; /* Adjust width as needed */
+}
+
+.chatbot-title {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+
+.questionInput,
+.fileInput {
+  padding: 10px; /* Maintain padding for user input */
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.submitBtn {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.loadingOutput {
+  font-style: italic;
+}
+
+.resultOutput {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.answer-card {
+  background-color: #fff; /* White background */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border-radius: 5px;
+  padding: 15px; /* Add padding for content */
+  margin-top: 10px; /* Margin for spacing */
+  font-weight: normal; /* Remove bold font weight */
+}
