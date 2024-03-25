@@ -58,11 +58,11 @@ export default function App() {
 
   return (
     <div className="chatbot-container">
-      <h1 className="chatbot-title">File Based Chatbot</h1>
+      <h1 className="chatbot-title">DataWhisperer 🗃️</h1>
       <div className="appBlock">
         <form onSubmit={handleSubmit} className="form">
           <label className="questionLabel" htmlFor="question">
-            Question:
+            Question❔:
           </label>
           <input
             className="questionInput"
@@ -75,7 +75,7 @@ export default function App() {
 
           <br></br>
           <label className="fileLabel" htmlFor="file">
-            Upload file:
+            Upload file📁:
           </label>
 
           <input

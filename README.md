@@ -1,8 +1,8 @@
-# File Based Chatbot
+# Data Whisperer 🗃️
 
 ## Introduction
 
-File Based Chatbot is a chatbot that allows you to analyze your local files using Large Language Models (LLMs). You can upload PDFs, Markdown, Text, and Document files to the chatbot and ask questions related to the content of those files.
+Data Whisperer 🗃️ is a chatbot that allows you to analyze your local files using Large Language Models (LLMs). You can upload PDFs, Markdown, Text, and Document files to the chatbot and ask questions related to the content of those files.
 
 ## Execution of Project
 
