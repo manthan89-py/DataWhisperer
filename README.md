@@ -11,7 +11,7 @@ To run this project in your environment, follow these steps:
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/manthan89-py/file-based-chatbot.git
+   git clone https://github.com/manthan89-py/DataWhisperer.git
    ```
 
 2. **Create a Virtual Environment**:
